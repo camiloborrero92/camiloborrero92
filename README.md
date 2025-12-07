@@ -8,27 +8,28 @@ I am a results-driven Software Engineer specializing in high-performance backend
 
 ## 🛠️ Core Tech Stack Deep Dive
 
-My primary environment is centered around the robust and efficient tools of the JavaScript and Node.js world.
+Mi entorno principal se centra en Node.js, pero mi experiencia abarca otros lenguajes y áreas complementarias.
 
-| Category | Key Technologies | Expertise & Focus |
+| Categoría | Tecnologías Clave | Experiencia y Foco |
 | :--- | :--- | :--- |
-| **Languages** | **TypeScript**, JavaScript (ES6+) | Strict typing, clean OOP/functional patterns. |
-| **Backend** | **NestJS**, Express, Fastify | Frameworks for microservices, high-speed routing, and enterprise applications. |
-| **Databases** | PostgreSQL, MongoDB, Redis | Schema design, advanced querying, caching implementation. |
-| **Cloud & DevOps** | **Azure**, Docker, Kubernetes Basics | Deployment, scaling, containerization, and cloud services (VMs, Functions). |
-| **Tools & Practices** | **GitHub**, Git, CI/CD, Jest/Mocha | Strong emphasis on version control, PR reviews, and unit/integration testing. |
+| **Lenguajes** | **TypeScript**, JavaScript (ES6+), **Python** | Tipado estricto, patrones limpios. Python para scripts y utilidades. |
+| **Backend** | **NestJS**, Express, Fastify, Java (Básico) | Frameworks para microservicios y APIs de alto rendimiento. Conocimiento de POO con Java. |
+| **Frontend/Mobile** | Angular (Básico) | Fundamentos de desarrollo frontend y móvil. |
+| **Bases de Datos** | PostgreSQL, MongoDB, Redis | Diseño de esquemas, consultas avanzadas, implementación de caching. |
+| **Cloud & DevOps** | **Azure**, Docker, Kubernetes Basics | Despliegue, escalabilidad, contenedorización y servicios en la nube de Azure. |
+| **Herramientas** | **GitHub**, Git, CI/CD, Jest/Mocha | Control de versiones, revisiones de código y pruebas unitarias/de integración. |
 
 ---
 
-## 🎯 What I Bring to the Table (Good Practices)
+## 🎯 What I Bring to the Table (Buenas Prácticas)
 
-I don't just write code—I build well-engineered systems.
+No solo escribo código, construyo sistemas bien diseñados.
 
-* ✅ **TypeScript Discipline:** Utilizing interfaces, generics, and decorators for strong code contracts.
-* ✅ **Clean Architecture:** Applying principles like SOLID and Domain-Driven Design (DDD) for long-term maintainability.
-* ✅ **API Performance:** Optimizing routes and payloads using high-speed tools like **Fastify**.
-* ✅ **Containerization:** Leveraging **Docker** for consistent development, staging, and production environments.
-* ✅ **Cloud Deployment:** Practical experience deploying and managing applications on **Microsoft Azure**.
+* ✅ **TypeScript Discipline:** Utilización de interfaces, genéricos y decoradores para contratos de código robustos.
+* ✅ **Clean Architecture:** Aplicación de principios SOLID y Domain-Driven Design (DDD) para un mantenimiento a largo plazo.
+* ✅ **API Performance:** Optimización de rutas y rendimiento con herramientas de alta velocidad como **Fastify**.
+* ✅ **Containerization:** Uso de **Docker** para entornos de desarrollo, staging y producción consistentes.
+* ✅ **Cloud Deployment:** Experiencia práctica en despliegue y gestión de aplicaciones en **Microsoft Azure**.
 
 ---
 
