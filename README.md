@@ -27,9 +27,9 @@ I primarily work with JavaScript and Python, focusing on creating efficient and 
 
 > Showcase your activity and most used languages (requires using third-party services like GitHub Readme Stats).
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=camiloborrero92&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camiloborrero92&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
