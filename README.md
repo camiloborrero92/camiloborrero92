@@ -8,28 +8,28 @@ I am a results-driven Software Engineer specializing in high-performance backend
 
 ## 🛠️ Core Tech Stack Deep Dive
 
-Mi entorno principal se centra en Node.js, pero mi experiencia abarca otros lenguajes y áreas complementarias.
+My main environment is focused on Node.js, but my experience spans other languages and complementary areas.
 
-| Categoría | Tecnologías Clave | Experiencia y Foco |
+| Category | Key Technologies | Expertise & Focus |
 | :--- | :--- | :--- |
-| **Lenguajes** | **TypeScript**, JavaScript (ES6+), **Python** | Tipado estricto, patrones limpios. Python para scripts y utilidades. |
-| **Backend** | **NestJS**, Express, Fastify, Java (Básico) | Frameworks para microservicios y APIs de alto rendimiento. Conocimiento de POO con Java. |
-| **Frontend/Mobile** | Angular (Básico) | Fundamentos de desarrollo frontend y móvil. |
-| **Bases de Datos** | PostgreSQL, MongoDB, Redis | Diseño de esquemas, consultas avanzadas, implementación de caching. |
-| **Cloud & DevOps** | **Azure**, Docker, Kubernetes Basics | Despliegue, escalabilidad, contenedorización y servicios en la nube de Azure. |
-| **Herramientas** | **GitHub**, Git, CI/CD, Jest/Mocha | Control de versiones, revisiones de código y pruebas unitarias/de integración. |
+| **Languages** | **TypeScript**, JavaScript (ES6+), **Python** | Strict typing, clean patterns. Python utilized for scripting and utilities. |
+| **Backend** | **NestJS**, Express, Fastify, Java (Basic) | Frameworks for microservices and high-performance APIs. Basic knowledge of OOP with Java. |
+| **Frontend/Mobile** | Angular (Basic) | Fundamentals of frontend and mobile development. |
+| **Databases** | PostgreSQL, MongoDB, Redis | Schema design, advanced querying, caching implementation. |
+| **Cloud & DevOps** | **Azure**, Docker, Kubernetes Basics | Deployment, scalability, containerization, and Azure cloud services. |
+| **Tools & Practices** | **GitHub**, Git, CI/CD, Jest/Mocha | Strong emphasis on version control, code reviews, and unit/integration testing. |
 
 ---
 
-## 🎯 What I Bring to the Table (Buenas Prácticas)
+## 🎯 What I Bring to the Table (Engineering Best Practices)
 
-No solo escribo código, construyo sistemas bien diseñados.
+I don't just write code—I build well-engineered systems.
 
-* ✅ **TypeScript Discipline:** Utilización de interfaces, genéricos y decoradores para contratos de código robustos.
-* ✅ **Clean Architecture:** Aplicación de principios SOLID y Domain-Driven Design (DDD) para un mantenimiento a largo plazo.
-* ✅ **API Performance:** Optimización de rutas y rendimiento con herramientas de alta velocidad como **Fastify**.
-* ✅ **Containerization:** Uso de **Docker** para entornos de desarrollo, staging y producción consistentes.
-* ✅ **Cloud Deployment:** Experiencia práctica en despliegue y gestión de aplicaciones en **Microsoft Azure**.
+* ✅ **TypeScript Discipline:** Utilizing interfaces, generics, and decorators for robust code contracts.
+* ✅ **Clean Architecture:** Applying SOLID principles and Domain-Driven Design (DDD) for long-term maintainability.
+* ✅ **API Performance:** Optimizing routes and performance with high-speed tools like **Fastify**.
+* ✅ **Containerization:** Leveraging **Docker** for consistent development, staging, and production environments.
+* ✅ **Cloud Deployment:** Practical experience deploying and managing applications on **Microsoft Azure**.
 
 ---
 
@@ -44,7 +44,7 @@ I am open to discussing new challenges, collaborating on open-source projects, o
 
 ### 📊 GitHub Activity (Powered by [camiloborrero92](https://github.com/camiloborrero92))
 
-> If the public stats are still failing, you might consider removing them temporarily until the service stabilizes, or replacing them with a custom chart/badge!
+> If the public stats are still failing, you might consider removing this section temporarily.
 
 [![camiloborrero92's GitHub stats](https://github-readme-stats.vercel.app/api?username=camiloborrero92&show_icons=true&theme=nord&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
