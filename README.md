@@ -1,51 +1,51 @@
-# 💻 Camilo Borrero | Backend Software Engineer
+# 🚀 [Your Name] | Node.js Backend & TypeScript Specialist
 
-### Architecting Scalable Systems | Focusing on Performance and Reliability
+### Building Scalable, Type-Safe APIs with the JavaScript Ecosystem
 
-I am a passionate Backend Developer with [X] years of experience specializing in building high-performance, fault-tolerant APIs and microservices. My core philosophy is rooted in clean code, testing, and continuous deployment to deliver solutions that scale with business growth.
+I am a results-driven Software Engineer specializing in high-performance backend development using Node.js and TypeScript. My passion lies in architecting modular, testable, and maintainable systems using modern frameworks and cloud technologies.
 
 ---
 
-## ⚙️ Core Technical Expertise
+## 🛠️ Core Tech Stack Deep Dive
 
-My work primarily revolves around creating the robust infrastructure that powers modern applications.
+My primary environment is centered around the robust and efficient tools of the JavaScript and Node.js world.
 
-| Focus Area | Primary Skills | Details & Tools |
+| Category | Key Technologies | Expertise & Focus |
 | :--- | :--- | :--- |
-| **Languages** | Python (Advanced), Go (Intermediate), Java (Familiar) | Deep understanding of concurrency, asyncio, and goroutines. |
-| **Frameworks** | Node.js (Express/NestJS), Django, Spring Boot | Building RESTful and GraphQL APIs from the ground up. |
-| **Databases** | **PostgreSQL**, MySQL, **Redis**, MongoDB | Expertise in database design, query optimization, and caching strategies. |
-| **Messaging** | **Kafka**, RabbitMQ | Experience with asynchronous communication, event-driven architectures. |
-| **DevOps & Cloud** | **Docker**, Kubernetes, AWS (EC2, Lambda, RDS) | CI/CD implementation using GitHub Actions/GitLab. |
+| **Languages** | **TypeScript**, JavaScript (ES6+) | Strict typing, clean OOP/functional patterns. |
+| **Backend** | **NestJS**, Express, Fastify | Frameworks for microservices, high-speed routing, and enterprise applications. |
+| **Databases** | PostgreSQL, MongoDB, Redis | Schema design, advanced querying, caching implementation. |
+| **Cloud & DevOps** | **Azure**, Docker, Kubernetes Basics | Deployment, scaling, containerization, and cloud services (VMs, Functions). |
+| **Tools & Practices** | **GitHub**, Git, CI/CD, Jest/Mocha | Strong emphasis on version control, PR reviews, and unit/integration testing. |
 
 ---
 
-## 🚀 Projects & Contributions
+## 🎯 What I Bring to the Table (Good Practices)
 
-Here are a few highlights of what I've been building or focusing on:
+I don't just write code—I build well-engineered systems.
 
-* **[Project Name 1]:** A distributed task queue system built with **Go** and **RabbitMQ** to handle high-volume data processing.
-* **[Project Name 2]:** Developed a secure, token-based authentication service using **Python/Django** and **Redis** for session management.
-* **Open Source:** Actively contributing to [Name of an open-source project or library].
-* **Currently Learning:** Implementing resilience patterns like Circuit Breakers and Bulkheads.
-
----
-
-## 📈 My Code Stats
-
-> Showing commitment to consistency and growth (Remember to replace `YOUR_USERNAME` with your actual username).
-
-## 📈 My Code Stats
-
-[![Camilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=camiloborrero92&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camiloborrero92&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+* ✅ **TypeScript Discipline:** Utilizing interfaces, generics, and decorators for strong code contracts.
+* ✅ **Clean Architecture:** Applying principles like SOLID and Domain-Driven Design (DDD) for long-term maintainability.
+* ✅ **API Performance:** Optimizing routes and payloads using high-speed tools like **Fastify**.
+* ✅ **Containerization:** Leveraging **Docker** for consistent development, staging, and production environments.
+* ✅ **Cloud Deployment:** Practical experience deploying and managing applications on **Microsoft Azure**.
 
 ---
 
-### 📬 Let's Connect!
+## 🌐 Let's Connect!
 
-I am always open to discussing new challenges, collaborations, or deep dives into system design.
+I am open to discussing new challenges, collaborating on open-source projects, or sharing insights on NestJS best practices.
 
-* **LinkedIn:** https://www.linkedin.com/in/camilo-andres-borrero-rodriguez-316ba3103/
-* **Email:** camiloborrero92@gmail.com
+* **LinkedIn:** [Your LinkedIn Profile URL]
+* **Portfolio/Website:** [Your Personal Website URL]
+* **Email:** your.email@example.com
+
+---
+
+### 📊 GitHub Activity (Powered by [camiloborrero92](https://github.com/camiloborrero92))
+
+> If the public stats are still failing, you might consider removing them temporarily until the service stabilizes, or replacing them with a custom chart/badge!
+
+[![camiloborrero92's GitHub stats](https://github-readme-stats.vercel.app/api?username=camiloborrero92&show_icons=true&theme=nord&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camiloborrero92&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
