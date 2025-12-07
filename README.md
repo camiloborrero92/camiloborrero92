@@ -37,9 +37,9 @@ Here are a few highlights of what I've been building or focusing on:
 
 ## 📈 My Code Stats
 
-[![Camilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=@camiloborrero92&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Camilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=camiloborrero92&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=@camiloborrero92&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camiloborrero92&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -47,5 +47,5 @@ Here are a few highlights of what I've been building or focusing on:
 
 I am always open to discussing new challenges, collaborations, or deep dives into system design.
 
-* **LinkedIn:** [Your LinkedIn URL]
-* **Email:** your.professional.email@example.com
+* **LinkedIn:** https://www.linkedin.com/in/camilo-andres-borrero-rodriguez-316ba3103/
+* **Email:** camiloborrero92@gmail.com
