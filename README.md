@@ -12,8 +12,8 @@ My main environment is focused on Node.js, but my experience spans other languag
 
 | Category | Key Technologies | Expertise & Focus |
 | :--- | :--- | :--- |
-| **Languages** | **TypeScript**, JavaScript (ES6+), **Python** | Strict typing, clean patterns. Python utilized for scripting and utilities. |
-| **Backend** | **NestJS**, Express, Fastify, Java (Basic) | Frameworks for microservices and high-performance APIs. Basic knowledge of OOP with Java. |
+| **Languages** | **TypeScript**, JavaScript (ES6+), **Python**, Java | Strict typing, clean patterns. Python utilized for scripting and utilities. |
+| **Backend** | **NestJS**, Express, Fastify | Frameworks for microservices and high-performance APIs. Basic knowledge of OOP with Java. |
 | **Frontend/Mobile** | Angular (Basic) | Fundamentals of frontend and mobile development. |
 | **Databases** | PostgreSQL, MongoDB, Redis | Schema design, advanced querying, caching implementation. |
 | **Cloud & DevOps** | **Azure**, Docker, Kubernetes Basics | Deployment, scalability, containerization, and Azure cloud services. |
