@@ -1,4 +1,4 @@
-# 🚀 [Your Name] | Node.js Backend & TypeScript Specialist
+# 🚀 Camilo Borrero | Node.js Backend & TypeScript Specialist
 
 ### Building Scalable, Type-Safe APIs with the JavaScript Ecosystem
 
@@ -36,9 +36,8 @@ I don't just write code—I build well-engineered systems.
 
 I am open to discussing new challenges, collaborating on open-source projects, or sharing insights on NestJS best practices.
 
-* **LinkedIn:** [Your LinkedIn Profile URL]
-* **Portfolio/Website:** [Your Personal Website URL]
-* **Email:** your.email@example.com
+* **LinkedIn:** https://www.linkedin.com/in/camilo-andres-borrero-rodriguez-316ba3103
+* **Email:** camiloborrero92@gmail.com
 
 ---
 
