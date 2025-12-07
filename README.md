@@ -16,7 +16,7 @@ My main environment is focused on Node.js, but my experience spans other languag
 | **Backend** | **NestJS**, Express, Fastify | Frameworks for microservices and high-performance APIs. Basic knowledge of OOP with Java. |
 | **Frontend/Mobile** | Angular/Ionic | Fundamentals of frontend and mobile development. |
 | **Databases** | PostgreSQL, MongoDB, Redis | Schema design, advanced querying, caching implementation. |
-| **Cloud & DevOps** | **Azure**, Docker, Kubernetes Basics | Deployment, scalability, containerization, and Azure cloud services. |
+| **Cloud & DevOps** | **Azure**, Docker, Kubernetes | Deployment, scalability, containerization, and Azure cloud services. |
 | **Tools & Practices** | **GitHub**, Git, CI/CD, Jest/Mocha | Strong emphasis on version control, code reviews, and unit/integration testing. |
 
 ---
