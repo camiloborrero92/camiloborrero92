@@ -35,9 +35,11 @@ Here are a few highlights of what I've been building or focusing on:
 
 > Showing commitment to consistency and growth (Remember to replace `YOUR_USERNAME` with your actual username).
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+## 📈 My Code Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Camilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=camiloborrero92&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camiloborrero92&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
